@@ -1,9 +1,4 @@
-### Daniel Lopes Soares, 20y
-
-<!--
-**DanielCreeklear/DanielCreeklear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Daniel Lopes Soares, 20y
 
 - 🔭 I’m currently working on ...
 [FolhaCerta](https://folhacerta.com/)
