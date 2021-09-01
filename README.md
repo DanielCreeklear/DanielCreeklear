@@ -1,4 +1,4 @@
-# Daniel Lopes, 20y
+# Daniel Lopes
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ddaniellopessoares/)](https://www.linkedin.com/in/ddaniellopessoares/) 
 [![Gmail Badge](https://img.shields.io/badge/-ddanielssoares@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ddanielssoares@gmail.com)](mailto:ddanielssoares@gmail.com)
 
