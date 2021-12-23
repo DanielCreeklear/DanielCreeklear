@@ -11,8 +11,8 @@
    <a href="https://jupyter.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="python" width="40" height="40" /> </a> 
    <a target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="python" width="40" height="40" /> </a>
    <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="40" height="40" /> </a>
-</p>
    <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40" /> </a>
+</p>
 
 ## About me
 <!--ts-->
