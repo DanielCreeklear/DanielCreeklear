@@ -12,8 +12,7 @@
    <a target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="python" width="40" height="40" /> </a>
 </p>
 
-About me
-==============
+## About me
 <!--ts-->
   * 🔭 Jr. QA Analyst at [FolhaCerta](https://folhacerta.com/)
   * 💻 I study at [UFABC](https://www.ufabc.edu.br/)
