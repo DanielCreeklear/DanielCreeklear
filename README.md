@@ -22,6 +22,6 @@
 About me
 ==============
 <!--ts-->
-  * 🔭 I’m currently working on [FolhaCerta](https://folhacerta.com/)
+  * 🔭 Jr. QA Analyst at [FolhaCerta](https://folhacerta.com/)
   * 💻 I study at [UFABC](https://www.ufabc.edu.br/)
 <!--te-->
