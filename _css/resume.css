@@ -1,0 +1,95 @@
+body {
+    background-color: #ABBF86;
+    font-family: Arial;
+}
+p {
+    text-align: justify;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.sidebar::-webkit-scrollbar {
+    display: none;
+}
+
+.sidebar {
+    position: fixed;
+    left: 0;
+    width: 230px;
+    height: 100%;
+    background: #50593E;
+    overflow-y: scroll;
+}
+
+.sidebar header {
+    font-size: 28px;
+    color: #CDE6A1;
+    text-align: center;
+    line-height: 70px;
+    background: #879769;
+    user-select: none;
+}
+
+.sidebar ul a {
+    display: block;
+    height: 100%;
+    width: 100%;
+    line-height: 65px;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #CDE6A1;
+    padding-left: 20px;
+    box-sizing: border-box;
+    transition: .4s;
+}
+
+ul li:hover a {
+    padding-left: 30px;
+}
+
+figure.profile-picture {
+    position: relative;
+    margin-left: 0;
+    width: 230px;
+    height: 320px;
+}
+
+figure.profile-picture img {
+    width: 100%;
+    height: 100%;
+}
+
+figure.profile-picture figcaption {
+    opacity: 0;
+    position: absolute;
+    top: 0px;
+    background-color: rgba(0, 0, 0, .4);
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    transition: opacity 1s;
+}
+
+figure.profile-picture figcaption .icon {
+    position: relative;
+    display: block;
+    width: 50px;
+    height: 50px;
+    margin: 10px auto 10px auto;
+}
+
+figure.profile-picture:hover figcaption {
+    opacity: 1;
+}
+
+#resume {
+    display: none;
+    position: fixed;
+    left: 230px;
+}
