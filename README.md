@@ -1,4 +1,4 @@
-# Daniel Lopes
+# [Daniel Lopes](https://danielcreeklear.github.io/DanielCreeklear/)
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ddaniellopessoares/)](https://www.linkedin.com/in/ddaniellopessoares/) 
 [![Gmail Badge](https://img.shields.io/badge/-ddanielssoares@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ddanielssoares@gmail.com)](mailto:ddanielssoares@gmail.com)
 
@@ -14,8 +14,11 @@
    <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40" /> </a>
 </p>
 
-## About me
-<!--ts-->
-  * 🔭 Jr. QA Analyst at [FolhaCerta](https://folhacerta.com/)
-  * 💻 I study at [UFABC](https://www.ufabc.edu.br/)
-<!--te-->
+## About me:
+I'm currently a technology intern at [Itaú Unibanco](https://www.itau.com.br/),
+but previously i worked with software testing.
+
+## My personal projects:
+  * [HEXPOD](https://github.com/DanielCreeklear/HEXPOD)
+  * [CHIP-8 Emulator](https://github.com/DanielCreeklear/chip8_emulator)
+  * [My page](https://danielcreeklear.github.io/DanielCreeklear/)
