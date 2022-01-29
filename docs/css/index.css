@@ -102,6 +102,7 @@ body {
 }
 
 .navigation .links table td p {
+    text-decoration: none;
     text-transform: uppercase;
     font-weight: 600;
     font-size: 13px;
