@@ -1,9 +1,6 @@
 body {
-    background-color: #1f5f61;
+    background-color: #2f3559;
     font-family: Arial;
-}
-p {
-    text-align: justify;
 }
 
 .main {
@@ -11,14 +8,11 @@ p {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 100%;
-    height: 100%;
     position: absolute;
-    top: 0;
-    left: 0;
+    width: 100%;
 }
 
-#menu {
+.profile {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -28,42 +22,87 @@ p {
     border-radius: 10px;
     -webkit-box-shadow: 0px 10px 12px 1px rgba(0,0,0,0.41); 
     box-shadow: 0px 10px 12px 1px rgba(0,0,0,0.41);
+    user-select: none;
 }
 
-#profile-picture {
+.profile .profile-picture {
     flex-grow: 1;
     flex-shrink: 2;
     width: 250px;
     border-radius: 250px;
 }
 
-#info {
+.profile .info {
     display: flex;
     flex-direction: column;
     flex-grow: 2;
     flex-shrink: 1;
 }
 
-#name {
+.profile .name {
     font-size: 70px;
     font-family: 'Roboto', sans-serif;
     margin-left: 10px;
     margin-top: 0px;
     margin-bottom: 10px;
     padding: 0px;
-    user-select: none;
-    color: #30261c;
+    color: black;
 }
 
-td {
+.profile td {
     width: 100px;
     height: 100px;
 }
 
-table td .icon {
+.profile table td .icon {
     position: relative;
     display: block;
     width: 60px;
     height: 60px;
     margin: 10px auto 10px auto;
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    margin: 0px;
+    flex-direction: column;
+    background-color: #FFFF;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 10px 12px 1px rgba(0,0,0,0.41); 
+    box-shadow: 0px 10px 12px 1px rgba(0,0,0,0.41);
+    user-select: none;
+}
+
+.navigation .title {
+    width: 100%;
+    height: 50px;
+    margin: 0px;
+    padding: 5px;
+    border-bottom: solid black;
+}
+
+.navigation .title h1 {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.navigation .links table td {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    background-color: #6d756a;
+    border-radius: 10px;
+    color: black;
+    padding: 10px;
+}
+
+.navigation .links table td p {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 13px;
 }
