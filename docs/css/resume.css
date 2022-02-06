@@ -109,7 +109,8 @@ h2.title {
     color: #ffffff;
     text-align: center;
     border: 5px solid #050016;
-    border-radius: 10px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
     background-color: #050016;
     -webkit-box-shadow: 0px 15px 15px 1px rgba(0,0,0,0.27); 
     box-shadow: 0px 15px 15px 1px rgba(0,0,0,0.27);
@@ -124,6 +125,24 @@ h2.title {
 
 .year {
     display: flex;
+}
+
+.year h1 {
+    border-right: 2px solid #ffffff;
+    padding: 5px;
+    margin: 10px;
+}
+
+.experience {
+    background-color: #050016;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.experience h2 {
+    padding: 0px;
+    border-bottom: 2px solid #ffffff;
 }
 
 #professional {
