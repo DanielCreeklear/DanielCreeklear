@@ -1,5 +1,5 @@
 body {
-    background-color: #ffffff;
+    background-color: #2f3559;
     font-family: 'IBM Plex Sans Thai Looped', sans-serif;
 }
 p {
@@ -119,6 +119,7 @@ h2.title {
     display: flex;
     flex-direction: column;
     height: 100%;
+    color: #ffffff;
 }
 
 .year {
