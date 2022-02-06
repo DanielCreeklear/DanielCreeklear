@@ -25,6 +25,8 @@ p {
     background: rgb(32, 18, 58);
     border-right: 5px solid #050016;
     overflow-y: scroll;
+    -webkit-box-shadow: 0px 0px 15px 1px rgba(0,0,0,0.76); 
+box-shadow: 0px 0px 15px 1px rgba(0,0,0,0.76);
 }
 
 .sidebar header {
