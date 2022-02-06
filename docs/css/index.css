@@ -3,6 +3,10 @@ body {
     font-family: Arial;
 }
 
+* {
+    text-decoration: none;
+}
+
 .main {
     display: flex;
     flex-direction: column;
@@ -104,6 +108,7 @@ body {
 .navigation .links table td p {
     text-decoration: none;
     text-transform: uppercase;
+    color: black;
     font-weight: 600;
     font-size: 13px;
 }
