@@ -11,6 +11,7 @@ p {
     padding: 0;
     list-style: none;
     text-decoration: none;
+    color:#ffffff;
 }
 
 .sidebar::-webkit-scrollbar {
@@ -121,6 +122,7 @@ h2.title {
     flex-direction: column;
     height: 100%;
     color: #ffffff;
+    margin-top: 20px;
 }
 
 .year {
@@ -143,6 +145,22 @@ h2.title {
 .experience h2 {
     padding: 0px;
     border-bottom: 2px solid #ffffff;
+    text-decoration: none;
+}
+
+.experience .details-experience {
+    display: flex;
+    flex-direction: row;
+    padding: 2px;
+    margin: 0px;
+    align-items: center;
+}
+
+.experience .details-experience h3 {
+    padding: 2px;
+    margin-top: 2px;
+    margin-bottom: 1px;
+    margin-right: 50px;
 }
 
 #professional {
