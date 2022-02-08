@@ -9,3 +9,8 @@ function switchDisplay(element)
         document.getElementById(element).style.display = "none";
     }
 }
+
+function openDiv(element)
+{
+    
+}
