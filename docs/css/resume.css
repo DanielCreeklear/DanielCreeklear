@@ -141,9 +141,19 @@ h2.title {
     background-color: #050016;
     padding: 5px;
     margin: 13px;
+    width: 600px;
     border-radius: 10px;
     -webkit-box-shadow: 0px 10px 16px -2px rgba(0,0,0,0.84); 
     box-shadow: 0px 10px 16px -2px rgba(0,0,0,0.84);
+    transition: .5s;
+}
+
+.experience:hover {
+    border: 10px solid #ffffff;
+}
+
+.experience:hover .tasks {
+    display: block;
 }
 
 .experience h2 {
@@ -167,7 +177,55 @@ h2.title {
     margin-right: 50px;
 }
 
+.tasks {
+    display: none;
+    transition: .5s;
+}
+
 #professional {
     display: flex;
     width: 100%;
+}
+
+.qualifications {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+
+.badge {
+    display: flex;
+    flex-direction: column;
+    background-color: #050016;
+    width: 70px;
+    height: 70px;
+    padding: 5px;
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-size: 10px;
+    transition: .4s;
+    text-align: center;
+}
+
+.badge img {
+    width: 30px;
+    height: 30px;
+    transition: .2s;
+}
+
+
+.badge:hover {
+    background-color: #ffffff;
+    width: 80px;
+    height: 80px;
+    font-size: 12px;
+    text-shadow: 0px 3px 2px #000000;
+}
+
+.badge:hover img {
+    width: 80px;
+    height: 80px;
 }
