@@ -21,12 +21,6 @@ but previously i worked with software testing.
 ## My personal projects
   * [HEXPOD](https://github.com/DanielCreeklear/HEXPOD)
   * [CHIP-8 Emulator](https://github.com/DanielCreeklear/chip8_emulator)
-  * [My page](https://danielcreeklear.github.io/DanielCreeklear/)
 
 ## Go to my page
-<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,900&display=swap" rel="stylesheet">
-<div style="background-color:#2f3559;width:100%;display:flex;justify-content:center;align-items:center;padding:10px;border-radius:10px">
-   <a href="https://danielcreeklear.github.io/DanielCreeklear/">
-      <h1 style="font-size:50px;font-family: 'Roboto', sans-serif;color:white;">Daniel Lopes</h1>
-   </a>
-</div>
+[My page](https://danielcreeklear.github.io/DanielCreeklear/)
