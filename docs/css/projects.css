@@ -92,6 +92,14 @@ body {
     height: 100%;
 }
 
+.panel .description .text h1 {
+    color: black;
+}
+
+.panel .description .text p {
+    color: black;
+}
+
 .panel .description:hover .text {
     display: flex;
 }
