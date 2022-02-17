@@ -18,8 +18,6 @@
 I'm currently a technology intern at [Itaú Unibanco](https://www.itau.com.br/),
 but previously i worked with software testing.
 
-- Backend .NET
-
 ## My personal projects
   * [HEXPOD](https://github.com/DanielCreeklear/HEXPOD)
   * [CHIP-8 Emulator](https://github.com/DanielCreeklear/chip8_emulator)
