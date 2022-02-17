@@ -26,3 +26,6 @@ but previously i worked with software testing.
 
 ## Go to my page
 [My page](https://danielcreeklear.github.io/DanielCreeklear/)
+
+## Statistics
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCreeklear&layout=compact&theme=dark)
