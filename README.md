@@ -18,6 +18,7 @@
   * [HEXPOD](https://github.com/DanielCreeklear/HEXPOD)
   * [CHIP-8 Emulator](https://github.com/DanielCreeklear/chip8_emulator)
   * [My page](https://danielcreeklear.github.io/DanielCreeklear/)
+  * [pyWikipedia](https://github.com/DanielCreeklear/pyWikipedia)
 
 ## Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCreeklear&layout=compact&theme=dark)
