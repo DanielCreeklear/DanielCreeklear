@@ -14,16 +14,10 @@
    <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40" /> </a>
 </p>
 
-## About me
-I'm currently a technology intern at [Itaú Unibanco](https://www.itau.com.br/),
-but previously i worked with software testing.
-
 ## My personal projects
   * [HEXPOD](https://github.com/DanielCreeklear/HEXPOD)
   * [CHIP-8 Emulator](https://github.com/DanielCreeklear/chip8_emulator)
-
-## Go to my page
-[My page](https://danielcreeklear.github.io/DanielCreeklear/)
+  * [My page](https://danielcreeklear.github.io/DanielCreeklear/)
 
 ## Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCreeklear&layout=compact&theme=dark)
