@@ -1,7 +1,8 @@
 /* General */
 body {
-    background-color: #444;
+    background-color: #2f3559;
     font-family: 'Roboto', sans-serif;
+    text-decoration: none;
 }
 
 .row {
@@ -10,12 +11,6 @@ body {
 
 .container {
     padding: 70px 0;
-}
-
-p, li {
-    color: #444;
-    font-size: 14px;
-    font-weight: bold;
 }
 
 /* Header */
@@ -60,264 +55,109 @@ header, .navbar {
     font-weight: 300;
 }
 
-/* OLD */
-body {
-    background-color: #2f3559;
-    font-family: 'IBM Plex Sans Thai Looped', sans-serif;
-}
-p {
-    text-align: justify;
-}
-
-* {
-    margin: 0;
+/* Main */
+main .container-fluid {
     padding: 0;
-    list-style: none;
-    text-decoration: none;
-    color:#ffffff;
+    background-color: #2f3559;
 }
 
-.sidebar::-webkit-scrollbar {
-    display: none;
+.container {
+    background-color: #FFF;
 }
 
-.sidebar {
-    position: fixed;
-    left: 0;
-    width: 230px;
-    height: 100%;
-    background: rgb(32, 18, 58);
-    border-right: 5px solid #050016;
-    overflow-y: scroll;
-    -webkit-box-shadow: 0px 0px 15px 1px rgba(0,0,0,0.76); 
-    box-shadow: 0px 0px 15px 1px rgba(0,0,0,0.76);
-}
-
-.sidebar header {
-    font-size: 30px;
-    color: #ffffff;
+/* Presentation */
+#presentation {
+    padding: 0;
+    margin: 0;
     text-align: center;
-    font-style: oblique;
-    font-family: 'Roboto', sans-serif;
-    line-height: 70px;
-    background: #050016;
-    user-select: none;
 }
 
-.sidebar ul a {
-    display: block;
-    height: 100%;
-    width: 100%;
-    line-height: 65px;
-    font-size: 14px;
-    border-bottom: 3px solid #050016;
-    border-left: 3px solid #050016;
+#presentation h2 {
+    font-size: 35px;
+    font-weight: 600;
     text-transform: uppercase;
-    color: #ffffff;
-    padding-left: 20px;
-    box-sizing: border-box;
-    transition: .4s;
-    -webkit-box-shadow: 0px 10px 15px 1px rgba(0,0,0,0.21); 
-    box-shadow: 0px 10px 15px 1px rgba(0,0,0,0.21);
-}
-
-ul li:hover a {
-    padding-left: 30px;
-}
-
-figure.profile-picture {
-    position: relative;
-    margin-left: 0;
-    width: 230px;
-    height: 230px;
-}
-
-figure.profile-picture img {
-    width: 100%;
-    height: 100%;
-}
-
-figure.profile-picture figcaption {
-    opacity: 0;
-    position: absolute;
-    top: 0px;
-    background-color: rgba(0, 0, 0, .4);
-    width: 100%;
-    height: 100%;
-    padding: 10px;
-    box-sizing: border-box;
-    transition: opacity 1s;
-}
-
-figure.profile-picture figcaption .icon {
-    position: relative;
-    display: block;
-    width: 35px;
-    height: 35px;
-    margin: 10px auto 10px auto;
-}
-
-figure.profile-picture:hover figcaption {
-    opacity: 1;
-}
-
-#resume {
-    padding: 10px;
-    margin-left: 230px;
-    height: 100%;
-}
-
-h2.title {
-    font-family: 'Roboto', sans-serif;
-    font-size: 50px;
-    color: #ffffff;
     text-align: center;
-    border: 5px solid #050016;
-    border-bottom-left-radius: 20px;
-    border-top-right-radius: 20px;
-    background-color: #050016;
-    -webkit-box-shadow: 0px 15px 15px 1px rgba(0,0,0,0.27); 
-    box-shadow: 0px 15px 15px 1px rgba(0,0,0,0.27);
-    user-select: none;
+    color: #2f3559;
+    border-bottom: #2f3559 solid 3px;
+    width: auto;
 }
 
-.timeline {
-    display: flex;
-    flex-direction: column;
-    height: 100%;
-    color: #ffffff;
-    margin-top: 20px;
+#presentation p {
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+    color: #444;
 }
 
-.year {
-    display: flex;
-}
-
-.year h1 {
-    border-right: 2px solid #ffffff;
-    padding: 5px;
-    margin: 10px;
-    user-select: none;
-}
-
-.experience {
-    background-color: #050016;
-    padding: 5px;
-    margin: 13px;
-    width: 600px;
+/* Experiences */
+.col-md-10 {
+    background-color: #2f3559;
     border-radius: 10px;
-    -webkit-box-shadow: 0px 10px 16px -2px rgba(0,0,0,0.84); 
-    box-shadow: 0px 10px 16px -2px rgba(0,0,0,0.84);
-    transition: .5s;
+    margin-bottom: 10px;
 }
 
-.experience:hover {
-    border: 10px solid #ffffff;
+.col-md-6 h2 {
+    font-size: 35px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+    color: #2f3559;
+    border-bottom: #2f3559 solid 3px;
 }
 
-.experience:hover .tasks {
-    display: block;
-}
-
-.experience h2 {
-    padding: 0px;
-    border-bottom: 2px solid #ffffff;
+.col-md-10 h3 {
+    text-align: start;
+    color: #FFF;
     text-decoration: none;
+    font-size: 25px;
 }
 
-.experience .details-experience {
-    display: flex;
-    flex-direction: row;
-    padding: 2px;
-    margin: 0px;
-    align-items: center;
+.col-md-6 h4 {
+    text-align: start;
+    color: #FFF;
+    text-decoration: none;
+    font-size: 20px;
 }
 
-.experience .details-experience h3 {
-    padding: 2px;
-    margin-top: 2px;
-    margin-bottom: 1px;
-    margin-right: 50px;
+.col-md-6 p {
+    color:#FFF;
+    text-decoration: none;
+    font-size: 15px;
 }
 
-.tasks {
-    display: none;
-    transition: .5s;
+/* Period */
+.col-md-2 h3 {
+    color:#2f3559;
+    transform: rotate(270deg);
+    margin-top: 10px;
+    font-weight: 300;
 }
 
-#professional {
-    display: flex;
-    width: 100%;
-}
-
-.qualifications {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    padding: 30px;
-}
-
+/* SKills */
 .badge {
-    display: flex;
-    flex-direction: column;
-    background-color: #050016;
-    width: 70px;
-    height: 70px;
-    padding: 5px;
+    background-color: #2f3559;
+    color: #FFF;
+    padding: 5px 10px;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
     margin: 10px;
-    justify-content: center;
-    align-items: center;
-    border-radius: 10px;
-    font-size: 10px;
-    transition: .4s;
-    text-align: center;
-    -webkit-box-shadow: 4px 5px 15px 5px rgba(0,0,0,0.62); 
-    box-shadow: 4px 5px 15px 5px rgba(0,0,0,0.32);
 }
 
 .badge img {
-    width: 30px;
-    height: 30px;
-    transition: .2s;
+    width: 35px;
+    height: 35px;
 }
 
-
-.badge:hover {
-    background-color: #ffffff;
-    width: 80px;
-    height: 80px;
-    font-size: 12px;
-    text-shadow: 0px 3px 2px #000000;
+.badge a {
+    font-size: 10px;
+    text-decoration: none;
+    color: #FFF;
 }
 
-.badge:hover img {
-    width: 80px;
-    height: 80px;
-}
-
-#achievements {
-    background-color: #050016;
-    margin: 15px;
-    padding: 10px;
-    border-radius: 10px;
-    display: flex;
-    flex-direction: column;
-}
-
+/* Achievements */
 .achievement {
-    background-color: #ffffff;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    margin: 10px;
-    padding: 5px;
-}
-
-.achievement p {
-    color: #050016;
-    font-size: 20px;
-    font-family: 'Roboto', sans-serif;
-    text-align: center;
-    font-weight: 700;
-    margin: 5px;
+    background-color: #2f3559;
+    border-radius: 10px;
+    margin-bottom: 10px;
 }
