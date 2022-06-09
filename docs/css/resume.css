@@ -65,11 +65,10 @@ main .container-fluid {
     background-color: #FFF;
 }
 
-/* Presentation */
+/* Resume */
 #presentation {
     padding: 0;
     margin: 0;
-    text-align: center;
 }
 
 #presentation h2 {
@@ -83,10 +82,10 @@ main .container-fluid {
 }
 
 #presentation p {
-    font-size: 20px;
-    font-weight: 500;
-    text-align: center;
+    text-align: justify;
     color: #444;
+    font-size: 15px;
+    font-weight: 600;
 }
 
 /* Experiences */
