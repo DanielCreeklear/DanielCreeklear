@@ -7,6 +7,8 @@
   * [CHIP-8 Emulator](https://github.com/DanielCreeklear/chip8_emulator)
   * [My page](https://danielcreeklear.github.io/DanielCreeklear/)
   * [pyWikipedia](https://github.com/DanielCreeklear/pyWikipedia)
+  * [Jardim de Hillune](https://github.com/DanielCreeklear/JardimDeHillune)
 
 ## Statistics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielCreeklear&layout=compact&theme=dark)
+![Creeklear's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielCreeklear&theme=dark&show_icons=true)
