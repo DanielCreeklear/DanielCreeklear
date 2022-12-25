@@ -1,0 +1,19 @@
+.badge {
+    background-color: #2f3559;
+    color: #FFF;
+    padding: 0px;
+    border-radius: 30px;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+}
+
+img {
+    width: 70%;
+    height: 70%;
+}
+
+a {
+    text-decoration: none;
+    color: #FFF;
+}

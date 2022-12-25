@@ -1,0 +1,34 @@
+* {
+    background-color: #FFF;
+    padding: 0;
+    margin: 0;
+}
+
+h2 {
+    font-size: 35px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+    color: #2f3559;
+    border-bottom: #2f3559 solid 3px;
+    width: auto;
+}
+
+p {
+    text-align: justify;
+    color: #444;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.row {
+    margin: 10px;
+}
+
+/* Period */
+.col-md-2 h3 {
+    color:#2f3559;
+    transform: rotate(270deg);
+    margin-top: 10px;
+    font-weight: 600;
+}

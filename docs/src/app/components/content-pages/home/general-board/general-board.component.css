@@ -1,0 +1,24 @@
+/* Board */
+.main-title {
+    color: #2f3559;
+    margin: 0 0 65px 0;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#board {
+    background-color: #F9F9F9;
+    border-top: 5px solid #444;
+}
+
+.board-box {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.board-box h4 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
