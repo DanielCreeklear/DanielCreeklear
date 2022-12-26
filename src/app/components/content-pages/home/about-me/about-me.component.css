@@ -1,37 +1,38 @@
 * {
-    background-color: #F9F9F9;
-}
-
-img {
-    border-radius: 50px;
+  background-color: #f9f9f9;
 }
 
 .text {
-    /*max-height: 280px;*/
-    overflow: scroll;
-    overflow-x: hidden;
+  min-width: 350px;
+  overflow: scroll;
+  overflow-y: hidden;
+}
+
+img {
+    border-radius: 50%;
+    margin-bottom: 10px;
 }
 
 .container::-webkit-scrollbar {
-    display: none;
+  display: none;
 }
 
 .text::-webkit-scrollbar {
-    display: none;
+  display: none;
 }
 
 .main-title {
-    color: #2f3559;
-    margin: 0 0 65px 0;
-    font-size: 40px;
-    text-align: center;
-    font-weight: bold;
+  color: #2f3559;
+  margin: 0 0 65px 0;
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
 }
 
 .about-title {
-    color: #2f3559;
-    font-size: 17px;
-    text-transform: uppercase;
-    font-weight: bold;
-    text-align: justify;
+  color: #2f3559;
+  font-size: 17px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: justify;
 }
