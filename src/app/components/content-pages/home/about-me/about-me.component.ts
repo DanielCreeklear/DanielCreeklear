@@ -18,5 +18,5 @@ export class AboutMeComponent {
     "Also, I have some projects with C++, such as an emulator where I use OpenGL and SDL2. C++ is a language that has also been following me since 2018. I'm currently venturing into the .NET platform, especially ASP.NET.",
     "A curiosity is that my first contact with programming was with the Lua language, using the ComputerCraft mod for Minecraft, in 2015."
   ];
-  image: string = "/assets/img/daniel2.jpg";
+  image: string = "assets/img/daniel2.jpg";
 }
