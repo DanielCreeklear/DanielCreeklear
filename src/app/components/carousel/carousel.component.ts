@@ -25,13 +25,13 @@ export class CarouselComponent {
       id: 2,
       title: "Concerto para Flauta e Orquestra - Edmundo Villani Cortes",
       link: "https://youtu.be/VSPlf8IVPjE",
-      image: "/assets/img/flute.png"
+      image: "assets/img/flute.png"
     },
     {
       id: 3,
       title: "Jardim de Hillune",
       link: "https://github.com/DanielCreeklear/JardimDeHillune",
-      image: "/assets/img/jardim_hillune_menu.png"
+      image: "assets/img/jardim_hillune_menu.png"
     }
   ]
 }
