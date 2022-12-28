@@ -19,10 +19,13 @@ h2 {
 
 h3 {
     text-align: start;
+    padding-bottom: 2px;
+    padding-top: 2px;
     color: #FFF;
     text-decoration: none;
     font-size: 25px;
     font-weight: 600;
+    border-bottom: #FFF solid 2px;
 }
 
 a {

@@ -4,8 +4,6 @@
 
 .text {
   min-width: 350px;
-  overflow: scroll;
-  overflow-y: hidden;
 }
 
 img {
@@ -14,10 +12,6 @@ img {
 }
 
 .container::-webkit-scrollbar {
-  display: none;
-}
-
-.text::-webkit-scrollbar {
   display: none;
 }
 

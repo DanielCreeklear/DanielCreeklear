@@ -1,4 +1,4 @@
-* {
+.resume {
     background-color: #FFF;
     padding: 0;
     margin: 0;
@@ -10,7 +10,6 @@ h2 {
     text-transform: uppercase;
     text-align: center;
     color: #2f3559;
-    border-bottom: #2f3559 solid 3px;
     width: auto;
 }
 
@@ -26,9 +25,14 @@ p {
 }
 
 /* Period */
-.col-md-2 h3 {
-    color:#2f3559;
+.period h3 {
+    color:#FFF;
     transform: rotate(270deg);
     margin-top: 10px;
     font-weight: 600;
+}
+
+.period {
+    background-color: #2f3559;
+    border-radius: 10px;
 }
