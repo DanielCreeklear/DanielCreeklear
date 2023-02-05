@@ -5,18 +5,12 @@
 
 ## Statistics
 
-![Creeklear's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DanielCreeklear&theme=dracula&show_icons=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielCreeklear&layout=compact&theme=dracula&hide=jupyter%20notebook&langs_count=4)
+![Creeklear's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DanielCreeklear&theme=dracula&show_icons=true&include_all_commits=true&count_private=true) ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielCreeklear&layout=compact&theme=dracula&hide=jupyter%20notebook&langs_count=4)
 
 ## My personal projects
 
-[![HEXPOD](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DanielCreeklear&repo=HEXPOD&theme=dracula)](https://github.com/DanielCreeklear/HEXPOD)
+[![HEXPOD](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DanielCreeklear&repo=HEXPOD&theme=dracula)](https://github.com/DanielCreeklear/HEXPOD) [![CHIP-8 Emulator](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DanielCreeklear&repo=chip8_emulator&theme=dracula)](https://github.com/DanielCreeklear/chip8_emulator) 
 
-[![CHIP-8 Emulator](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DanielCreeklear&repo=chip8_emulator&theme=dracula)](https://github.com/DanielCreeklear/chip8_emulator)
-
-[![My page](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DanielCreeklear&repo=DanielCreeklear&theme=dracula)](https://danielcreeklear.github.io/DanielCreeklear/)
-
-[![pyWikipedia](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DanielCreeklear&repo=pyWikipedia&theme=dracula)](https://github.com/DanielCreeklear/pyWikipedia)
+[![My page](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DanielCreeklear&repo=DanielCreeklear&theme=dracula)](https://danielcreeklear.github.io/DanielCreeklear/) [![pyWikipedia](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DanielCreeklear&repo=pyWikipedia&theme=dracula)](https://github.com/DanielCreeklear/pyWikipedia)
 
 [![Jardim de Hillune](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DanielCreeklear&repo=JardimDeHillune&theme=dracula)](https://github.com/DanielCreeklear/JardimDeHillune)
