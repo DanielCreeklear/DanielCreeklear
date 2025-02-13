@@ -3,8 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ddaniellopessoares/)](https://www.linkedin.com/in/ddaniellopessoares/)
 [![Gmail Badge](https://img.shields.io/badge/-ddanielssoares@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ddanielssoares@gmail.com)](mailto:ddanielssoares@gmail.com)
 
-## Statistics
-
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielCreeklear&layout=compact&theme=dracula&hide=jupyter%20notebook%2Chtml&langs_count=4)
 
 ## My personal projects
