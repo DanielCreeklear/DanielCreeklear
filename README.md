@@ -5,7 +5,7 @@
 
 ## Statistics
 
-![Creeklear's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DanielCreeklear&theme=dracula&show_icons=true&include_all_commits=true&count_private=true) ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielCreeklear&layout=compact&theme=dracula&hide=jupyter%20notebook%2Chtml&langs_count=4)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielCreeklear&layout=compact&theme=dracula&hide=jupyter%20notebook%2Chtml&langs_count=4)
 
 ## My personal projects
 
